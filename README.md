@@ -1,13 +1,9 @@
 # Arithmetic-operation-using-8086
 # 8086 Assembly Language Programs for Arithmetic Operations
-
 ## AIM
 ## APPARATUS REQUIRED
-
 * Personal Computer with MASM Software
-
 ---
-
 ## 1. ADDITION
 
 #### Algorithm
@@ -24,7 +20,7 @@
 
 ## FLOW CHART
 
-<img width="400" height="600" alt="image" src="https://github.com/user-attachments/assets/b5a7062d-e294-47cd-9683-a40de25e82de" />
+<img width="500" height="1000" alt="image" src="https://github.com/user-attachments/assets/b5a7062d-e294-47cd-9683-a40de25e82de" />
 
 
 #### Program
